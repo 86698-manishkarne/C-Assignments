@@ -4,7 +4,7 @@
 int main()
 {
 
-    const char *strings[6] = {"Manish", "Samadhan", "Abhijeet", "Shreyash", "Pramod", "Samadhan"};
+     char *strings[6] = {"Manish", "Samadhan", "Abhijeet", "Shreyash", "Pramod", "Samadhan"};
 
     int check[6] = {0};
 
