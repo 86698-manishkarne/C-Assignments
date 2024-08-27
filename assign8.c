@@ -13,6 +13,7 @@ Student accept_info(Student s)
 
     printf("Enter Name : ");
     scanf("%s", &s.name);
+    fflush(stdin);
 
     printf("Enter Marks : ");
     scanf("%d", &s.mark);
